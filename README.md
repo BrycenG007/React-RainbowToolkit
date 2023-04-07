@@ -9,7 +9,6 @@ The redux folders are fully empty to allow full customization.
 I created this template because everytime I needed to create a web3-react project, i hated doing all of this and it was a pain-in-the-ass. This template will help eliminate the stress involved in doing so and eliminate popular mistakes people make when creating a template.
 
 Contributions are highly welcomed, send a detailed pull request to the repo and I'll check it out.
-Created by [FrankUdoags](https://github.com/frankudoags)
 
 
 ## Usage
